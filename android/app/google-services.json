@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "3857659977",
+    "firebase_url": "https://options-b8234.firebaseio.com",
+    "project_id": "options-b8234",
+    "storage_bucket": "options-b8234.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3857659977:android:228515e4d562797a51e798",
+        "android_client_info": {
+          "package_name": "com.sanchitrastogi.options"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3857659977-niqm5mn6k199s288inbejf5flag10l2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI4zG1J3vL_xRNIo953wa16JIlm0wu_dk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3857659977-niqm5mn6k199s288inbejf5flag10l2g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
